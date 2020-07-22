@@ -1,0 +1,129 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  }
+
+ h1,h2,h3,p {
+  text-align: center;
+  padding-top: 3%;
+ padding-bottom: 3%;
+ font-family: 'Montserrat'
+}
+
+/* sections */
+.colored-section {
+background-color: #e8505b;
+  color: #fff;
+}
+/* Navbar section */
+.navbar-brand {
+font-family: 'Ubuntu', sans-serif;
+ font-size: 2rem;
+}
+
+.nav-item {
+  margin: 0 15px;
+}
+
+ /* title */
+
+ #H1 {
+   text-align: center;
+   padding-top: 50px;
+   padding-bottom: 1.5rem;
+   color: #fff;
+ line-height: 4.5rem
+   }
+
+ #title {
+   background-color: #e8505b;
+   padding-bottom: 50px;
+ }
+
+ /* Title img */
+
+ .title-img {
+   height: 20rem;
+   width: 29.5rem;
+ margin-right: 12px;
+ margin-left: 10px;
+ padding-top: 10px;
+ }
+
+/* Features */
+
+#features {
+  background-color: #fff;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 4.5%;
+}
+
+.icon {
+   color: #e8505b;
+   padding-top: 5.5rem;
+   margin-bottom: 1rem;
+ }
+
+.icon:hover {
+  color: #ef8172;
+  padding-top: 5.5rem;
+}
+
+/* slide-show */
+.press-logo {
+  margin: 20px 20px 50px;
+  width: 5%;
+  }
+
+.jewel {
+  height: 300px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+#press {
+  text-align: center;
+  background-color: #e8505b;
+  padding-bottom: 1.5rem;
+}
+
+#featured-products {
+  background-color: #e8505b;
+  text-align: center;
+  color: #fff;
+}
+/* pricing section */
+.card-deck {
+  margin: 0 15px 15px;
+}
+/* resolution */
+#cta {
+  padding-bottom: 50px;
+  padding-top: 60px;
+  background-color: #e8505b;
+  color: #fff;
+}
+
+/* footer section */
+
+ .social-icons {
+   color: #0f4c75;
+  margin: 20px 10px;
+}
+
+.social-icons:hover {
+color: #cbeaed;
+}
+
+#footer {
+    height: 60px;
+    text-align: center;
+  }
+/* Copyright Section */
+  .p1 {
+    padding-top: 1rem;
+    font-size: 10px;
+    color: #bababa;
+  }
